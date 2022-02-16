@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarlG
-- 👀 I’m interested in statistical genomic data analysis. 
-- 🌱 I’m currently learning analysis pipelines of large scale RNA-seq data.
+- 👀 I’m interested in computational biology. 
+- 🌱 I’m currently practicing my Python programming by completing Rosalind problems.
 - 📫 How to reach me: harlan.gillespie1@gmail.com
 
 <!---
